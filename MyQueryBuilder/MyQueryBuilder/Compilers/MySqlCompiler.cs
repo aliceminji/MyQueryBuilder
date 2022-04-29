@@ -14,7 +14,7 @@ namespace MyQueryBuilder.Compilers
 
         public override string EngineCode { get; } = EngineCodes.MySql;
 
-        public override string CompileLimit(ResultData ctx)
+        public override string CompileLimit(SqlResult ctx)
         {
             var limit = ctx.Query.GetLimit(EngineCode);
             var offset = ctx.Query.GetOffset(EngineCode);
