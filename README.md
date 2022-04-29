@@ -9,6 +9,8 @@ https://github.com/sqlkata/querybuilder
 
 ## Record
 **2022/04/29**  
+Install MySql Server 8.0
+Install MySql workbench 8.0
 Task Analysis  
 create new project  
 find reference project   
