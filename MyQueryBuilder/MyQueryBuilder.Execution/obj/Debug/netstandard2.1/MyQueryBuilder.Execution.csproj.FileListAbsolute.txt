@@ -1,0 +1,9 @@
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.GeneratedMSBuildEditorConfig.editorconfig
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.AssemblyInfoInputs.cache
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.AssemblyInfo.cs
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.csproj.CoreCompileInputs.cache
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.Execution.deps.json
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.Execution.dll
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.Execution.pdb
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.dll
+D:\pmj\source\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.pdb

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "95k/Dn32IbzRpjWWFf7Qevvn2nwpJyybpgjDy/rNg0twedE4pvCFNXEsPdKpzW1mwFtLOVjmA3aft1fphM6/zg==",
+  "dgSpecHash": "USPLQ8kFteSTkTTynbDbTAIobH1t7SpOg8tDUYkntBFrASC87rCU2YRb3eUSrHjZ+WynsSYCv4SuexxiLJJsXw==",
   "success": true,
   "projectFilePath": "D:\\pmj\\source\\MyQueryBuilder\\MyQueryBuilder\\MyQueryBuilder.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\GMIN05\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
