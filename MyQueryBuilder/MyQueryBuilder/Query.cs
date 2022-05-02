@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MyQueryBuilder.Compilers
 {
-    public partial class Query
+    public partial class Query : BaseQuery<Query>
     {
 
     }

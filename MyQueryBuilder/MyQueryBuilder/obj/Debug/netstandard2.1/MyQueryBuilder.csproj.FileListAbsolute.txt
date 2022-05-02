@@ -8,3 +8,10 @@ D:\pmj\source\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuil
 D:\pmj\source\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.csproj.CoreCompileInputs.cache
 D:\pmj\source\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.dll
 D:\pmj\source\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.pdb
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.csproj.AssemblyReference.cache
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.AssemblyInfoInputs.cache
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.AssemblyInfo.cs
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.csproj.CoreCompileInputs.cache
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.dll
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder\obj\Debug\netstandard2.1\MyQueryBuilder.pdb

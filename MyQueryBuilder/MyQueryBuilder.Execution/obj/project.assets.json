@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pmj\\source\\MyQueryBuilder\\MyQueryBuilder.Execution\\MyQueryBuilder.Execution.csproj",
+      "projectUniqueName": "D:\\pmj\\github\\my-query-builder\\MyQueryBuilder\\MyQueryBuilder.Execution\\MyQueryBuilder.Execution.csproj",
       "projectName": "MyQueryBuilder.Execution",
-      "projectPath": "D:\\pmj\\source\\MyQueryBuilder\\MyQueryBuilder.Execution\\MyQueryBuilder.Execution.csproj",
+      "projectPath": "D:\\pmj\\github\\my-query-builder\\MyQueryBuilder\\MyQueryBuilder.Execution\\MyQueryBuilder.Execution.csproj",
       "packagesPath": "C:\\Users\\GMIN05\\.nuget\\packages\\",
-      "outputPath": "D:\\pmj\\source\\MyQueryBuilder\\MyQueryBuilder.Execution\\obj\\",
+      "outputPath": "D:\\pmj\\github\\my-query-builder\\MyQueryBuilder\\MyQueryBuilder.Execution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -65,8 +65,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\pmj\\source\\MyQueryBuilder\\MyQueryBuilder\\MyQueryBuilder.csproj": {
-              "projectPath": "D:\\pmj\\source\\MyQueryBuilder\\MyQueryBuilder\\MyQueryBuilder.csproj"
+            "D:\\pmj\\github\\my-query-builder\\MyQueryBuilder\\MyQueryBuilder\\MyQueryBuilder.csproj": {
+              "projectPath": "D:\\pmj\\github\\my-query-builder\\MyQueryBuilder\\MyQueryBuilder\\MyQueryBuilder.csproj"
             }
           }
         }

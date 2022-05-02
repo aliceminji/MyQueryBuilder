@@ -23,6 +23,18 @@ namespace MyQueryBuilder.Execution
             QueryTimeout = timeout;
         }
 
+        public Query Query()
+        {
+            var query = new XQuery(this.Connection, this.Compiler);
+
+            query.QueryManager = this;
+
+            //query.Logger = Logger;
+
+            return query;
+        }
+
+
         protected virtual void Dispose(bool disposing)
         {
             if (!disposedValue)

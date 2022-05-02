@@ -1,7 +1,6 @@
 ﻿using MyQueryBuilder.Execution;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using MySql.Data.MySqlClient;
+using MyQueryBuilder.Compilers;
 
 namespace Program
 {
@@ -9,12 +8,18 @@ namespace Program
     {
         static void Main(string[] args)
         {
-    
+            using (var db = MySqlQueryManager())
+            {
+                
+            }
         }
 
-        private static QueryManager MySqlServerQueryManager()
+        private static QueryManager MySqlQueryManager()
         {
-            var compiler = new My
+            var connection = new MySqlConnection("Host=localhost;Port=3308;User=root;Password=1234;Database=shop_db;SslMode=None");
+            var db = new QueryManager(connection, new MySqlCompiler());
+
+            return db;
         }
     }
 }

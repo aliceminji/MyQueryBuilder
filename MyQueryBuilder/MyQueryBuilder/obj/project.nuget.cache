@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "USPLQ8kFteSTkTTynbDbTAIobH1t7SpOg8tDUYkntBFrASC87rCU2YRb3eUSrHjZ+WynsSYCv4SuexxiLJJsXw==",
+  "dgSpecHash": "95/H4F+74H1ziGk1VL0DQdR3r+7qzD0Lm07YmjR5mKEldgvQgR72GFrtRxwAbfXNKYbp1NY7PUxwfkxnm9H3Lg==",
   "success": true,
-  "projectFilePath": "D:\\pmj\\source\\MyQueryBuilder\\MyQueryBuilder\\MyQueryBuilder.csproj",
+  "projectFilePath": "D:\\pmj\\github\\my-query-builder\\MyQueryBuilder\\MyQueryBuilder\\MyQueryBuilder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

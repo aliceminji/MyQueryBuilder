@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.29" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MyQueryBuilder.Execution\MyQueryBuilder.Execution.csproj" />
     <ProjectReference Include="..\MyQueryBuilder\MyQueryBuilder.csproj" />
   </ItemGroup>
