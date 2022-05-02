@@ -14,3 +14,8 @@ Install MySql workbench 8.0
 Task Analysis  
 create new project  
 find reference project   
+  
+**2022/05/02**  
+Mysql connection start
+Create Mysql Compiler
+Create Query class
