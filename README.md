@@ -14,6 +14,11 @@ Install MySql workbench 8.0
 Task Analysis  
 create new project  
 find reference project   
+
+**2022/05/01**  
+Create other new c# console project  
+Install Reference Neget package (sqlkata) and called the method  
+Study how to use library  
   
 **2022/05/02**  
 Mysql connection start
