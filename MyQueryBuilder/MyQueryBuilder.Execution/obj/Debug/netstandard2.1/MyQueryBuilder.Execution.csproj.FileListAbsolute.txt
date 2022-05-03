@@ -14,3 +14,9 @@ D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug
 D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.csproj.CoreCompileInputs.cache
 D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.dll
 D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.pdb
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.Execution.deps.json
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.Execution.dll
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.Execution.pdb
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.dll
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\bin\Debug\netstandard2.1\MyQueryBuilder.pdb
+D:\pmj\github\my-query-builder\MyQueryBuilder\MyQueryBuilder.Execution\obj\Debug\netstandard2.1\MyQueryBuilder.Execution.csproj.CopyComplete

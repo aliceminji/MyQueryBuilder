@@ -3,3 +3,13 @@ D:\pmj\github\my-query-builder\MyQueryBuilder\Program\obj\Debug\netcoreapp3.1\Pr
 D:\pmj\github\my-query-builder\MyQueryBuilder\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
 D:\pmj\github\my-query-builder\MyQueryBuilder\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
 D:\pmj\github\my-query-builder\MyQueryBuilder\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\bin\Debug\netcoreapp3.1\Program.dll
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\bin\Debug\netcoreapp3.1\Program.pdb
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\bin\Debug\netcoreapp3.1\MyQueryBuilder.dll
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\bin\Debug\netcoreapp3.1\MyQueryBuilder.Execution.dll
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\bin\Debug\netcoreapp3.1\MyQueryBuilder.Execution.pdb
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\bin\Debug\netcoreapp3.1\MyQueryBuilder.pdb
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\obj\Debug\netcoreapp3.1\Program.dll
+D:\pmj\github\my-query-builder\MyQueryBuilder\Program\obj\Debug\netcoreapp3.1\Program.pdb
