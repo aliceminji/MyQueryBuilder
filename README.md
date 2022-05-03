@@ -23,4 +23,10 @@ Study how to use library
 **2022/05/02**  
 Mysql connection start
 Create Mysql Compiler
-Create Query class
+Create Query class  
+
+**2022/05/03**  
+Create BaseQuery Class  
+Create ResultData Class  
+Modify Query, QueryManager Class  
+Analyze Sql Kata 
